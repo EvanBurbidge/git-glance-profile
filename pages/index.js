@@ -6,6 +6,9 @@ export default function Home() {
       <Head>
         <title>Git glance</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="title" content="Git Glance" />
+        <meta name="keywords" content="Github, Pull Request, Overviews, Chrome, Extension" />
+        <meta name="description" content="Git glance provides an overview of pull requests that you have created, are assigned to, are mentioned in or that have requested a review from you." />
       </Head>
 
       <header className="w-full">
