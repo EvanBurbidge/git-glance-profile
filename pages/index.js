@@ -129,6 +129,12 @@ export default function Home() {
                       className="font-medium text-gray-500 hover:text-gray-900"
                     >Product hunt</a
                     >
+                    <a
+                      target="_blank"
+                      href="https://www.buymeacoffee.com/thewebuiguy"
+                      className="font-medium text-gray-500 hover:text-gray-900"
+                    >Buy me a coffee</a
+                    >
                   </div>
                 </nav>
               </div>
