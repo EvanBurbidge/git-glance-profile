@@ -160,7 +160,7 @@ export default function Home() {
                 >
                   <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
                     <a
-                      href="https://chrome.google.com/webstore/detail/git-glance/ggipehgmbcjjlibbgoicnolekdocanbi?hl=en&authuser=1"
+                      href="https://chrome.google.com/webstore/detail/git-glance/ggipehgmbcjjlibbgoicnolekdocanbi"
                       target="_blank"
                       rel="no-referrer"
                       className="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-gray-900 bg-white border border-transparent rounded-md hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
