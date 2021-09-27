@@ -153,8 +153,7 @@ export default function Home() {
                 <p
                   className="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl"
                 >
-                  View your github pull requests, approve, request changes or
-                  mentioned request and authentication via Firebase
+                  Git glance provides you a quick overview of pull requests that you have created, are assigned to, are mentioned in or that have requested a review from you.
                 </p>
                 <div
                   className="max-w-md mx-auto mt-5 sm:flex sm:justify-center md:mt-8"
@@ -469,7 +468,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className="bg-gray-800" aria-labelledby="footer-heading">
+      <footer className="bg-gray-800 w-full" aria-labelledby="footer-heading">
         <h2 id="footer-heading" className="sr-only">Footer</h2>
         <div className="px-4 py-12 mx-auto max-w-7xl sm:px-6 lg:py-16 lg:px-8">
           {/* <!-- <div className="xl:grid xl:grid-cols-3 xl:gap-8">
