@@ -146,7 +146,7 @@ export default function Home() {
                   className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl"
                 >
                   <span className="block xl:inline">Get an overview of your </span>
-                  <span className="block text-blue-800 xl:inline"
+                  <span className="block text-highlight xl:inline"
                   >git pull requests</span
                   >
                 </h1>
